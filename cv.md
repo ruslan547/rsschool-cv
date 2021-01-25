@@ -6,4 +6,6 @@
     - novik.rv93@gmail.com
 3. Summary
     In recent years, I have worked in a different specialty. There is no experience in this specialty. But I'm a very fast learner. I am a reliable person and I take my responsibilities seriously. I am sure that I can contribute to the growth of your company's profits.
-
+4. Skills
+    HTML, CSS, JavaScript, Angular, BEM,  Git, Sass, Bootstrap
+5. 
