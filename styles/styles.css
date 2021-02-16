@@ -7,7 +7,7 @@ body {
   max-width: 960px;
   min-height: 100vh;
   margin: 0 auto;
-  padding: 40px 10px;
+  padding: 40px 10px 20px;
   box-sizing: border-box;
   background-color: bisque;
 }
@@ -55,6 +55,7 @@ body {
 .contacts-list__item {list-style-type: square;}
 
 .summary-list {
+  margin-bottom: 40px;
   padding-right: 40px;
   box-sizing: border-box;
 }
@@ -92,6 +93,17 @@ body {
 }
 
 .skills__item:last-child {margin-right: 0;}
+
+.footer {
+  padding-left: 40px;
+  padding-right: 40px;
+  box-sizing: border-box;
+}
+
+.footer__year {text-align: center;}
+
+.rs-school__img {width: 100px;}
+
 
 
 
